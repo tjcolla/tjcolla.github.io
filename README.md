@@ -5,7 +5,7 @@
 [SpaceX Landing Dashboard](https://github.com/tjcolla/ibm_course/blob/main/scripts/spacex_dash_app.py)
 ![SpaceX Landing Analysis](https://github.com/tjcolla/ibm_course/blob/main/images/Full_dashboard.PNG?raw=true)
 ## Integrating Analysis into Interactive Maps
-[SpaceX Folium Mapping](https://github.com/tjcolla/tjcolla.github.io/blob/main/Notebooks/SpaceX_Folium)
+[SpaceX Folium Mapping](https://github.com/tjcolla/tjcolla.github.io/blob/main/Notebooks/SpaceX_Folium.py)
 ![Nearest Selected Landmarks](https://github.com/tjcolla/ibm_course/blob/main/images/Nearest_all.PNG?raw=true)
 
 ## EDA with Visualizations
@@ -15,7 +15,7 @@
 ![Date Augmentation](https://github.com/tjcolla/ibm_course/blob/main/images/SQL_Date_augmentation.PNG?raw=true)
 
 ## Machine Learning Models
-[Model Building for SpaceX Data](https://github.com/tjcolla/tjcolla.github.io/blob/main/Notebooks/SpaceX_Machine_Learning_Predictions)
+[Model Building for SpaceX Data](https://github.com/tjcolla/tjcolla.github.io/blob/main/Notebooks/SpaceX_Machine_Learning_Predictions.py)
 
 Confusion Matrix
 
