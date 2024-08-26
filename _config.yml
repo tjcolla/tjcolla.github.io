@@ -1,12 +1,15 @@
+theme: jekyll-theme-minimal
 title: Taylor Collard
-logo: "https://github.com/tjcolla/tjcolla.github.io/blob/main/images/headshot_circle.jpg?raw=true"
 description: >
   Recently separated Air Force veteran with 6 years of analytical experience. 
   <br><br>
   Foundational coursework training through Google and IMB data analysis certifications.
   <br><br>
   <a href="https://www.linkedin.com/in/taylor-collard/">View My LinkedIn Profile</a>
-  
+url: "https://tjcolla.github.io/"
+baseurl: "/"
+
+image: "images/headshot_circle.jpg
 #show_downloads: true
-theme: jekyll-theme-minimal
+
 css: "assets/css/style.css"
