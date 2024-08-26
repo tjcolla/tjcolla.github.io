@@ -10,6 +10,7 @@ url: "https://tjcolla.github.io/"
 baseurl: "/"
 
 image: "images/headshot_circle.jpg
-#show_downloads: true
+
 
 css: "assets/css/style.css"
+#show_downloads: true
